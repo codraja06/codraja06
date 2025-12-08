@@ -59,13 +59,5 @@ Passionate about <strong>Ethical Hacking</strong>, exploring <strong>Cybersecuri
 
 ---
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=codraja06&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 
 
