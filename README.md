@@ -36,7 +36,7 @@ Passionate about <strong>Ethical Hacking</strong>, exploring <strong>Cybersecuri
 | Project | Tech Used | Status |
 |--------|-----------|--------|
 | 🔍 Python Port Scanner | Python, Socket | ✔ Completed |
-| 🛡️ Phishing URL Detection System | Python, Machine Learning, URL Feature Analysis | ✔ Completed |
+
 
 
 
