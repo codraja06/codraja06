@@ -17,8 +17,6 @@
 - 🔐 Learning **Penetration Testing & Ethical Hacking**
 - 🐍 Skilled in **Python, Linux, Networking**
 - 🧪 Hands-on with **Wireshark, Burp Suite**
-- 📱 Focused on securing **Mobile, Tablet & PC Devices**
-- ⚖️ Committed to **Responsible & Ethical Security Practices**
 - 🎯 Interested in **Network & System Security**
 - 📬 Reach me: **codraja19@gmail.com**
 
