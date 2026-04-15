@@ -6,19 +6,20 @@
   <img src="https://komarev.com/ghpvc/?username=codraja06&label=👀+Profile+Views&color=ff0000&style=for-the-badge" />
 </p>
 
-<h3 align="center">🔐 Securing Systems | Breaking Vulnerabilities | Learning Every Day 🚀</h3>
+<h3 align="center">🔐 Securing Mobile, Tablet & PC Systems Responsibly | Ethical Hacking 🚀</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 
 - 🔐 Learning **Penetration Testing & Ethical Hacking**
 - 🐍 Skilled in **Python, Linux, Networking**
 - 🧪 Hands-on with **Wireshark, Burp Suite**
-- 🎯 Focused on **Network Security & Vulnerability Analysis**
-- 🚀 Exploring **Real-world Attack Techniques**
+- 📱 Focused on securing **Mobile, Tablet & PC Devices**
+- ⚖️ Committed to **Responsible & Ethical Security Practices**
+- 🎯 Interested in **Network & System Security**
 - 📬 Reach me: **codraja19@gmail.com**
 
 ---
@@ -53,13 +54,14 @@
 - Penetration Testing (Beginner Level)  
 - Packet Analysis (Wireshark)  
 - Web Security Basics  
+
 ---
 
 ## 🧩 Tools & Interests
 
 - 🛠️ Tools: Nmap, Burp Suite, Wireshark  
+- 📱 Devices: Mobile, Tablet, PC Security  
 - 🌐 Interests: Web Security, Network Defense  
-- 🧠 Mindset: Always Curious About Exploits  
 - 🎯 Goal: Become a Professional Pentester  
 
 ---
@@ -74,7 +76,7 @@
 
 ## ⚡ Fun Fact
 
-💡 "I don't just use systems… I try to break them (ethically 😄)"
+💡 "I focus on identifying vulnerabilities responsibly to secure systems across all devices."
 
 ---
 
@@ -86,4 +88,4 @@
 
 ---
 
-<h3 align="center">🔥 Keep Hacking. Keep Learning. Stay Ethical. 🔐</h3>
+<h3 align="center">🔥 Securing Every Device. Learning Every Day. Staying Ethical. 🔐</h3>
