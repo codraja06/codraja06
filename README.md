@@ -1,15 +1,10 @@
 <div align="center">
 
-```
-   ██████╗      ██████╗  █████╗       ██╗ █████╗ ██████╗  █████╗ ███╗   ███╗
-  ██╔════╝     ██╔════╝ ██╔══██╗      ██║██╔══██╗██╔══██╗██╔══██╗████╗ ████║
-  ██║  ███╗    ██║  ███╗███████║      ██║███████║██████╔╝███████║██╔████╔██║
-  ██║   ██║    ██║   ██║██╔══██║ ██   ██║██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║
-  ╚██████╔╝    ╚██████╔╝██║  ██║ ╚█████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║
-   ╚═════╝      ╚═════╝ ╚═╝  ╚═╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C9AF7&height=180&section=header&text=G.%20Rajaram&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C9AF7&center=true&vCenter=true&width=650&lines=Python+Developer+%7C+Cybersecurity+Enthusiast;B.E.+Computer+Science+Engineering+%E2%80%94+2027;Building+ML%2C+Security+%26+Full-Stack+Projects;Charting+a+course+from+idea+to+deployed+product." alt="Typing SVG" />
+
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C9AF7&center=true&vCenter=true&width=650&lines=Python+Developer+%7C+Cybersecurity+Enthusiast;B.E.+Computer+Science+Engineering+%E2%80%94+2027;Building+ML+%26+Full-Stack+Projects;Charting+a+course+from+idea+to+deployed+product." alt="Typing SVG" />
 
 <p>
   <a href="https://rajaramg-portfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-2C9AF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -40,11 +35,7 @@ Secondary: Cybersecurity
 
 ─────────────────────────────
 Languages: Python, SQL
-Frameworks: Flask, FastAPI,
-            React, Streamlit
-ML / AI:   TensorFlow,
-           scikit-learn,
-           Gemini API
+Frameworks: Flask, Streamlit
 Security:  Kali Linux,
            Wireshark,
            Burp Suite, Nmap
@@ -62,19 +53,28 @@ Portfolio: rajaramg-portfolio
 </td>
 <td width="50%" valign="top">
 
-### Currently Building
-- 🧭 **Final Year Project** — PYQ pattern-mining study companion using RAG, sentence embeddings, and bilingual (Tamil-English) explanations
-- 🌾 **Crop Recommendation System** — Random Forest + Streamlit + Gemini API advisor with weather integration
-- 🍅 **Tomato Leaf Disease Detection** — DenseNet121 classifier with a FastAPI backend and React frontend
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣰⣾⠁⠀⢦⣾⣤⠆⠀⠻⣧⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢠⣼⠏⠀⠀⠀⠀⣿⡇⠀⠀⠀⠈⢷⣄⠀⠀⠀⠀
+⠀⠀⢀⣸⣿⠃⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⢿⣧⡀⠀⠀
+⠀⢰⣾⣿⡁⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⢀⣿⣿⠖⠀
+⠀⠀⠈⠻⣿⣦⣄⠀⠀⠀⠀⣿⡇⠀⠀⠀⢀⣴⣿⠟⠁⠀⠀
+⠀⠀⠀⠀⠈⠻⢿⣷⣄⡀⠀⣿⡇⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣦⣿⣧⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢙⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣴⣿⣿⠟⠁⣻⣿⠈⠙⢿⣿⣦⡀⠀⠀⠀⠀
+⠀⠀⠀⢀⣴⣿⡿⠋⠀⠀⠀⣽⣿⠀⠀⠀⠙⢿⣿⣦⣄⠀⠀
+⠀⣠⣴⣿⡿⠋⠀⠀⠀⠀⠀⢼⣿⠀⠀⠀⠀⠀⠈⢻⣿⣷⣄
+⠈⠙⢿⣿⣦⣄⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⣠⣾⣿⠟⠁
+⠀⠀⠀⠙⢿⣿⣷⣄⠀⠀⠀⢸⣿⠀⠀⠀⣠⣾⣿⠟⠁⠀⠀
+⠀⠀⠀⠀⠀⠙⢻⣿⣷⡄⠀⢸⣿⠀⠀⣼⣿⣿⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣦⣸⣿⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
-### Preparing For
-- 🎯 Campus placements: TCS, Infosys, Wipro, Zoho, Freshworks
-- 📚 Structured 6-week prep across aptitude, Python, and logical reasoning
-- 💻 Completed a cybersecurity internship at Srishti Innovative
-
-### Currently Learning
-- 🔍 RAG pipelines & vector search (FAISS / ChromaDB)
-- 🛡️ Applied penetration testing fundamentals
 
 </td>
 </tr>
@@ -108,11 +108,11 @@ Portfolio: rajaramg-portfolio
 
 <div align="center">
 
-### 🧭 Live Contribution Chart
+### 🧭 Activity Graph
 
-<img src="https://raw.githubusercontent.com/codraja06/codraja06/main/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codraja06&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
 
-*Auto-generated daily via a free GitHub Action — no paid tools, no third-party dashboards.*
+*Updates automatically — pulled live from GitHub on every page load, no separate workflow required.*
 
 </div>
 
@@ -121,3 +121,5 @@ Portfolio: rajaramg-portfolio
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=codraja06&label=Profile%20Views&color=2C9AF7&style=flat" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9AF7,100:0F2027&height=100&section=footer" alt="footer wave" />
